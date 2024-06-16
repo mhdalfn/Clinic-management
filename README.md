@@ -1,4 +1,4 @@
-# Sistem Informasi Manajemen Klinik Gigi
+# Sistem Informasi Manajemen Klinik
 
 Aplikasi ini adalah sistem informasi manajemen untuk klinik yang mengelola data dokter dan jadwal praktek menggunakan arsitektur microservice. Aplikasi ini dibangun menggunakan Node.js dan Express.
 
